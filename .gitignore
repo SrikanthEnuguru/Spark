@@ -1,0 +1,10 @@
+*.classpath
+*.project
+*.settings
+.recommenders/
+.metadata/
+RemoteSystemsTempFiles/
+*.class
+*.jar
+*.MF
+*/target/*

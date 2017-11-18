@@ -1,0 +1,15 @@
+Suspect,Validation.Required,D:\release\v2018\SCPO\Appscan_source\source\com\manu\scpoweb\demand\DFUAttribute\client\AddDFUAttributeDocument.java,370,20
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\DFUAttribute\AddDFUAttributeForm.jsp,45,79
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\DFUAttribute\AddDFUAttributeForm.jsp,233,79
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\DFUAttribute\AddDFUAttributeForm.jsp,320,79
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\DFUAttribute\AddDFUAttributeForm.jsp,320,79
+Suspect,Validation.Required,D:\release\v2018\SCPO\Appscan_source\source\com\manu\scpoweb\demand\target\client\AddDFUsBaseDocument.java,136,20
+Suspect,Validation.Required,D:\release\v2018\SCPO\Appscan_source\source\com\manu\scpoweb\demand\target\client\AddDFUsBaseDocument.java,257,20
+Suspect,Validation.Required,D:\release\v2018\SCPO\Appscan_source\source\com\manu\scpoweb\demand\target\client\AddDFUsBaseDocument.java,323,20
+Suspect,Validation.Required,D:\release\v2018\SCPO\Appscan_source\source\com\manu\scpoweb\demand\target\client\AddDFUsBaseDocument.java,423,20
+Suspect,Validation.Required,D:\release\v2018\SCPO\Appscan_source\source\com\manu\scpoweb\demand\target\client\AddDFUsBaseDocument.java,575,20
+Suspect,Validation.Required,D:\release\v2018\SCPO\Appscan_source\source\com\manu\scpoweb\demand\target\client\AddDFUsBaseDocument.java,824,20
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\target\AddDFUsToTarget.jsp,51,79
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\workbench\AddLockOverride.jsp,69,79
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\workbench\AddLockOverride.jsp,73,79
+Suspect,CrossSiteScripting.Reflected,D:\release\v2018\SCPO\Appscan_source\ear\scpoweb\scpoweb\demand\workbench\AddLockOverride.jsp,112,79
